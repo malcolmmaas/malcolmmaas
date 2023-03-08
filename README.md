@@ -1,4 +1,8 @@
-### Hi there 👋
+I'm a physics 🪄 and atmospheric science 🌦️ student who enjoys working with data 💻 of all kinds.
+
+Feel free to contact me at mmaas@umd.edu.
+
+Linkedin: https://www.linkedin.com/in/malcolmmaas/
 
 <!--
 **malcolmmaas/malcolmmaas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
