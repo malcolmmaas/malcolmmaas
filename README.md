@@ -1,6 +1,6 @@
-### [friendly greeting here] 👋
+Hi! 👋
 
-I'm a physics 🪄 and atmospheric science 🌦️ student who enjoys working with data 💻 of all kinds.
+I'm a physics and atmospheric science student who enjoys working with data of all kinds.
 
 Feel free to contact me at mmaas@umd.edu.
 
